@@ -35,3 +35,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# Sannidhi's First CS193 Homework!
+
+### Things I love about the CS-193 course
+- The Instructors
+- The Teaching Assistants
+- The themes of the slides!
+
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fcute-syrian-hamster-working-on-a-laptop-computer%2F487904916&psig=AOvVaw2bjDn8XWobQ4aF8F6Q6g3E&ust=1725077816152000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDauObtm4gDFQAAAAAdAAAAABAJ)
